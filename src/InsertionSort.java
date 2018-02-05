@@ -23,7 +23,7 @@ public class InsertionSort {
     public static int[] sortArray(int[] array) {
 
         for(int i = 1; i < array.length; i++){
-            for(int j = 0; j < array.length; j++)
+            for(int j = 0; j < array.length; j++){}
         }
 
         return array;
